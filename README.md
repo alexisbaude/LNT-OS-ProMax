@@ -5,3 +5,4 @@ C'est une version de linux concu à la base pour réparer des pc et mac (arm64 e
 Il fonctionne en bootant une cle usb sur le pc concerne puis il demarra en mode live cd (rien a installer )et supprime tout les fichier a la fi de la session.
 Il est actuellement en test.
 Il a été crée le 14/04/2025 et déployer le 16/04/2025
+![Uploading image.png…]()
