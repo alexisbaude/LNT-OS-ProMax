@@ -6,6 +6,8 @@ Il fonctionne en bootant une cle usb sur le pc concerne puis il demarra en mode 
 Il est actuellement en test.
 Il a été crée le 14/04/2025 et déployer le 16/04/2025
 vous pouver le tester avec une image de moins de 1go sans les outils fonctionels +d'infos ici :https://github.com/alexisbaude/DEMO-LNT-OS
+Les fiches d'aide utilisé lors du développement sont ici https://drive.google.com/drive/folders/1yacYszdgbjaqtVcwnFAHmywGWpAMFSP0?usp=sharing
+et aussi sur alexis.xbaude.fr
 
 # LNT OS - Projet Système d'exploitation personnalisé
 
